@@ -1,0 +1,30 @@
+*.annot
+*.cmo
+*.cma
+*.cmi
+*.a
+*.o
+*.cmx
+*.cmxs
+*.cmxa
+*.s
+*.asm
+*.top
+*.so
+
+# ocamlbuild working directory
+_build/
+._bcdi
+._ncdi
+._d
+
+# ocamlbuild targets
+*.byte
+*.native
+
+# oasis generated files
+setup.data
+setup.log
+
+# executable name
+lr1
