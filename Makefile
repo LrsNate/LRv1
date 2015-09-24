@@ -1,4 +1,4 @@
-SOURCES = files.ml grammar.ml main.ml
+SOURCES = files.ml grammar.ml automaton.ml main.ml
 LIBS = str
 RESULT  = lr1
 

@@ -1,3 +1,6 @@
+type rule = string * string list
+type grammar = rule list
+
 let rule_of_string str =
   let words = Str.split (Str.regexp " ") str in 
   let rec build_rule name_acc = function
