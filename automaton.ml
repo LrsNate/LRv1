@@ -20,10 +20,19 @@ object (self)
     in
     self#close_rule final_state rule
 
+  method recognize words =
+    let words_iter state sym =
+      Option.flatMap (fun s -> self#find_transition s sym) state
+    in
+    let final_state =
+      List.fold_left words_iter (Some _start) words
+    in
+    Option.flatMap self#find_rule final_state
+
   method find_transition state sym =
     let rec find_aux state sym = function
       | [] -> None
-      | (a, b, c) :: tl when a = state && b = sym -> Some c
+      | (a, b, c) :: _ when a = state && b = sym -> Some c
       | _ :: tl -> find_aux state sym tl
     in
     find_aux state sym _transitions
@@ -36,9 +45,11 @@ object (self)
   method close_rule state rule =
     _ends <- _ends @ [state, rule]
 
-  method display =
-    let print_trans (a, b, c) = Printf.printf "%d %s %d\n" a b c in
-    List.iter print_trans _transitions
-
-
+  method find_rule state =
+    let rec find_aux state = function
+      | [] -> None
+      | (a, b) :: _ when a = state -> Some b
+      | _ :: tl -> find_aux state tl
+    in
+    find_aux state _ends
 end

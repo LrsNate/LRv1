@@ -9,7 +9,7 @@ let read_rules folder_path =
       try
         build_lines chan (input_line chan :: acc)
       with
-        End_of_file -> acc
+        | End_of_file -> acc
       in 
     let res = build_lines ic [] in 
     close_in ic;
