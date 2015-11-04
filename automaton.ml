@@ -8,7 +8,7 @@ object (self)
   val _start: int = 1
   val mutable _next_state: int = 2
   val mutable _transitions: transition list = []
-  val mutable _ends: (state * Grammar.rule) list = []
+  val mutable _ends: (state * Grammar.rule list) list = []
 
   method read_rule rule =
     let add_transition state sym =
@@ -60,7 +60,10 @@ object (self)
     _next_state - 1
 
   method close_rule state rule =
-    _ends <- _ends @ [state, rule]
+  if List.exists (fun (s, r) -> s = state) _ends then
+    _ends <- List.map (fun (s, r) -> (s, r @ [rule])) _ends
+  else
+    _ends <- _ends @ [state, [rule]]
 
   method find_rule state =
     let rec find_aux state = function
@@ -68,7 +71,7 @@ object (self)
       | (a, b) :: _ when a = state ->
         begin
           if _debug then
-            Printf.printf "Found end state for \"%s\" at: %d\n" (fst b) state
+            List.iter (fun x -> Printf.printf "Found end state for \"%s\" at: %d\n" (fst x) state) b
           else ()
         end;
         Some b
