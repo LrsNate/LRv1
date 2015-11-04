@@ -1,0 +1,1321 @@
+BARAKA
+Blade Swipe        - Back + [FP]
+Cross Swipe        - Back + [BP]
+Gut Strike         - Forward + [BP]
+Foot Stomp         - Back + [FK]
+Hop Kick           - Up + [FK]
+Quick Knee         - Forward + [BK]
+Big Legs           - Up + [BK]
+Sweep              - Back + [BK]
+Blade Uppercut     - Down + [BP]
+Tarkatan Rush      - [FP], [BP], [FP]
+Painful Swipes     - [FP], [BP], [BP]
+Tricky Fury        - [FP], [BP], Back + [FK]
+Cut 'Em Loose      - Back + [FP], [FP]
+Splinter       - Back + [FP], Forward + [BP]
+Cold Steel         - [BP], [FP], [BP]
+Tears of Pain      - [BP], [BP], [BP] + [FP]
+Tarkatan Push      - Back + [BP], Forward + [BP]
+Horror Show        - Forward + [BP], [BK]
+Outworld Bash      - Forward + [BP], [BP]
+Tarkatan Blows     - [FK], Back + [FK]
+Open Wound         - Back + [FK], [FP], Forward + [FP]
+Easy Kill          - Back + [FK], [BP], [BP]
+Doom Kicks         - Forward + [BK], [BK]
+Bloody Mess        - Back + [FK], [FP], Tag
+Skinned Alive      - [FP], [BP], Tag
+Killer Kuts        - [BP], [FP], Tag
+Have At It         - [BP], [BP], Tag
+Blade Charge       - Down, Forward, [BP]
+Spark              - Down, Back, [BP]
+Chop Chop       - Back, Back, [FP]
+Blade Spin      - Down, Back, [FK]
+Slices             - Down, Forward, [FP]
+Blade Rush         - Down, Forward, [BP] + Block
+Sparked            - Down, Back, [BP] + Block
+Chopchop Shop      - Back, Back, [FP] + Block
+Spinner            - Down, Back, [FK] + Block
+Slicer             - Down, Forward, [FP] + Block
+Nail and Impale    - Flip Stance + Block
+Up the middle      - Back, Forward,  Down, Forward,  [FP]
+Take a Spin        - Forward,  Forward,  Down, Down, [FK]
+Stage Fatality     - Down, Down, Down, [FK]
+Babality       - Forward,  Back, Forward,  [BK]
+CYRAX
+Yank           - Back + [FP]
+Uppercut       - Down + [BP]
+Blase Overhead     - Back  + [BP]
+Tooth and Nail     - Forward + [BP]
+Side Kick          - Back + [FK]
+Hop Kick           - Up + [BK]
+Sweep              - Back + [BK]
+See Saw        - [FP], [FP], [FP]
+Steel Fists        - [FP], [BP], [FP]
+Power Plant        - [FP], [BP], [FK]
+Mustard        - [BP], [FP], [BP]
+Saw Enough     - [BP], [BP], Forward + [FP]
+Kombat boots       - [FK], [FK], [BK]
+Cyber Beatdown     - Back + [FP], [BP], [FP], [BP]
+Automation         - Back + [BP], Tag
+Number Cruncher    - Back + [FP], Tag
+High Tech          - [FP], [BP], Tag
+Short circuit      - [BP], [FP], Tag
+Close       - Back, Back, [BK]
+Medium      - Forward, Forward, [BK]
+Far     - Back, Back, Forward, [BK]
+Net            - Back, Back, [FK]
+Teleport        - Down, Back, [FP]
+Buzzsaw        - Back, Forward, [BP]
+Reverse Kick    - Down, Forward, [FK]
+Ragdoll        - Down, Forward, [FK], Throw
+Anti-Air       - Down, Forward, [BP]
+Sticky Bomb        - Back, Back, [BK] + Block
+Electro Net        - Back, Back, [FK] + Block
+Bangport       - Down, Back, [FP] + Block
+Saw Blade      - Back, Forward, [BP] + Block
+Donkey Kick        - Down, Forward, [FK] + Block
+Ragdolls       - Down, Forward, [FK] + Block, Throw
+Power Anti-Air     - Down, Forward, [BP] + Block
+Cyberdriver        - Flip Stance + Block
+Buzz Kill      - Forward, Down, Forward, Back, [BP]
+Nothing But Net    - Back, Down, Back, Forward, [FP]
+Stage Fatality     - Down, Up, Block
+Babality       - Down, Forward, Back, [BP]
+ERMAC
+Back Fist      - Forward + [FP]
+Uppercut       - Down + [BP]
+Wind Strikes       - Back + [FP]
+Fist Smash         - Forward + [BP]
+Psychic Palm       - Back + [BP]
+Quick Kick         - Back + [FK]
+[BP]-hit Kick  - Forward + [BK]
+Low Leg        - Up + [BK]
+Sweep          - Back + [BK]
+Ermac Rush         - [FP], [BP], [FP]
+Mysterious Rush    - Forward + [FP], [FP], [BK]
+Fusion         - Back + [FP], [FP], [BK]
+We Win         - Back + [FP], [BP], Forward + [FP]
+Nether Pain        - [BP], [BP]
+Psychic Strikes    - Back + [BP], Back + [FP]
+Lost Souls         - Back + [BP], [FP], Forward + [BP]
+Relinquish         - [FK], [FK]
+Surrender      - [FK], [FP], [BP]
+Disoriented        - Back + [FK], [BK]
+Controlled Chaos   - Forward + [BK], Back + [BP]
+Breakdown          - Forward + [BP], Tag
+Brain Freeze       - Back + [BP], Tag
+Mind-Clowing       - Back + [FP], [BP], Forward + [FP], Tag
+Clear Your Mind    - Forward + [FP], [FP], Tag
+Subconscious       - Back + [FP], [FP], Tag
+Lucidity       - [FK], [FP], Tag
+Force Ball     - Down, Back, [BP]
+Air Blast      - Down, Back, [BP]
+Force Port      - Down, Back [BK]
+Force Lift      - Down, Back, [FP]
+Butt slam      - Down, Down, Up
+Force Push     - Back, Forward, [FP]
+Focus Ball     - Down, Back, [BP] + Block
+Force Blast        - Down, Back, [BP] + Block
+Teleport       - Down, Back [BK] + Block
+Telelift       - Down, Back, [FP] + Block
+Butt Smash     - Down, Up, [BK] + Block
+Telepush       - Back, Forward, [FP] + Block
+Cannonball Slam    - Flip Stance + Block
+Mind Over Splatter     - Down, Up, Down, Down, Block
+Pest Control       - Forward, Back, Forward, Down, [BK]
+Stage Fatality     - Down, Up, Down, Down, [FK]
+Babality       - Down, Down, Back, Down, [BP]
+GORO
+Cross Strike       - Back + [FP]
+Upward Fist        - Back + [BP]
+Low Kick       - Back + [FK]
+Side Kick      - Back + [BK]
+Shokan Strikes     - [BP], [BP]
+Fireball       - Down, Forward, [FP]
+Stomp          - Down, Back, [BK]
+Ground Pound       - Down, Back, [FK]
+Taunt          - Back, Forward, [FK]
+Goro Grab      - Down, Forward, [BP]
+Arm Spin       - Back, Forward, [BK]
+Crusher        - Flip Stance + Block
+JADE
+Staff Strikes      - Back + [FP]
+Rising Pole        - Back + [BP]
+Upward Thrust      - Forward + [BP]
+Gut Kick       - Back + [FK]
+Pole Vault         - Up + [FK]
+Uppercut       - Down + [BP]
+Sweep          - Back + [BK]
+Pole Check         - [FP], [BP], [BP]
+Jade Charge        - Back + [FP], Forward + [FP]
+Bad Girl       - [BP], [FK], Forward + [BP]
+Edenian Rush       - Forward + [BP], [FP], [BP]
+Betrayal       - [FK], [BK], [BP]
+Assassin Strikes   - Back + [FK], [BP]
+Polecat        - [BK], Forward + [FK]
+Untameable         - Back + [BP], Tag
+Pole Pain      - Up + [FK], Tag
+After You      - [FP], [BP], Tag
+Likewise       - [BP], [FK], Tag
+Edenian Tag        - Forward + [BP], [FP], Tag
+Distrust       - [FK], [BK], Tag
+Boomerang      - Down, Forward, [FP]
+Boomerang Up       - Down, Back, [FP]
+Boomerang Down     - Down, Forward, [FK]
+Shadow Kick        - Down, Forward, [BK]
+Shadow Flash    - Back, Forward, [FK]
+Staff Overhead  - Down, Back, [BP]
+Staff Grab     - Down, Forward, [BP]
+Reboomerang        - Down, Forward, [FP] + Block
+Reboomerang Up     - Down, Back, [FP] + Block
+Reboomerang Down   - Down, Forward, [FK] + Block
+Eclipse Kick       - Down, Forward, [BK] + Block
+Shadow Glow        - Back, Forward, [FK] + Block
+Staff Smash        - Down, Back, [BP] + Block
+Staff Slam     - Down, Forward, [BP] + Block
+Staff Buster       - Flip Stance + Block
+Head-A-Rang        - Up, Up, Down, Forward, [FP]
+Half Mast      - Back, Down, Back, Down, [BK]
+Stage Fatality     - Back, Forward, Down, Block
+Babality       - Down, Down, Forward, Down, [BK]
+JAX
+Uppercut       - Down + [BP]
+Hook Swipe         - Back + [FP]
+Big Leg        - Forward + [FK]
+Shin Kick      - Forward + [BK]
+Sweep          - Back + [BK]
+Triple Slam - Throw, [FP] + [BK]
+Four slams  - Throw, [FP] + [BK], [BP] + [FK]
+Five slams  - Throw, [FP] + [BK], [BP] + [FK], [BP] + [BK]
+Six slams   - Throw, [FP] + [BK], [BP] + [FK], [BP] + [BK],
+Major Force        - [FP], [BP], [FK]
+Boot Kamp      - Back + [FP], [BP], [BK]
+Active Duty        - [BP], [FP]
+Fild Grade         - [BP], [BP]
+Chain of Command   - [BP], Forward + [BP], Back + [FP]
+Advance Force      - Forward + [BK], [FP], [FK]
+Code of Conduct    - Forward + [BK], [FP], [BK]
+Majority Rules     - Down, Back, [FK], Tag
+Outranked          - Down, Back, [FK] + Block, Tag
+Major Muscles      - Back + [FP], [BP], Tag
+Alloyver You       - [BP], Forward + [BP], Tag
+Briggs' Da Noise   - [BP], Forward + [BP], Back + [FP], Tag
+Energy Wave        - Down, Back, [BP]
+Dash Punch         - Down, Forward, [BP]
+Close       - Down, Back, [FK]
+Medium      - Down, Forward, [FK]
+Far     - Down, Back Forward, [FK]
+Gotcha Grab     - Down, Forward, [FP]
+Air Gotcha Grab - Down, Back, [FP]
+Overhead Smash     - Down, Up, [BK]
+Back Breaker       - Throw
+Assault Wave       - Down, Back, [BP] + Block
+Dash Fist      - Down, Forward, [BP] + Block
+Ground Quake       - Down, Back, [FK] + Block
+Gotcha Beatdown    - Down, Forward, [FP] + Block
+Air Gotcha Blast   - Down, Back, [FP] + Block
+Elite Smash        - Down, Up, [BK] + Block
+Briggs' Bash       - Flip Stance + Block
+Smash and Grab     - Back, Forward, Forward, Back, [BP]
+Three Points!      - Forward, Forward, Back, Down, [FK]
+Stage Fatality     - Down, Forward, Down, [FP]
+Babality       - Down, Down, Down, [FK]
+JOHNNY CAGE
+Uppercut           - Down + [BP]
+Charge Palm        - Back + [BP] (hold)
+[BP]Hit Elbow      - Forward + [BP]
+Pop Up             - Back + [FK]
+Rising Knee        - Forward + [FK]
+Axe Kick           - Forward + [BK]
+Sweep              - Back + [BK]
+Out Take           - [BP], [BP], [BP]
+Show Time          - [BP], [FP], Forward + [FP]
+Stand In           - [BP], [FP], [BK]
+Cross Cutting      - [FP], [FK], [BK]
+Widescreen         - [BP], [FP], Back + [BP]
+Director's Cut     - [BP], [FP], Forward + [BK]
+Take Two           - Back + [FK], [BP]
+Money Shot         - [BK], [BK]
+That's The Ticket  - Back + [FK], [FK], Forward + [FK]
+Cliffhanger        - Back + [BP] (hold), Tag
+Fade Out       - Forward + [BK], Tag
+Bootleg        - Back + [FK], Tag
+Stunt Double       - [BP], [FP], Forward + [BP], Tag
+Cameo          - [FP], [FK], Tag
+Double Feature     - [BP], [FP], Tag
+Stand-In       - [BP], [FP], Forward + [BP], Tag
+Low Forceball      - Down, Forward, [BP]
+High Forceball     - Down, Back, [BP]
+Flip Kick       - Down, Back, [FK]
+Shadow Kick        - Back, Forward, [BK]
+Nut Punch       - Back, Down, [FP]
+Double Low Ball    - Down, Forward, [BP] + Block
+Double High Ball   - Down, Back, [BP] + Block
+Ultra Flip Kick    - Down, Back, [FK] + Block
+Eclipse Kick       - Back, Forward, [BK] + Block
+Nutcracker         - Back, Down, [FP] + Block
+Ball Buster        - Flip Stance + Block
+Heads Up           - Forward, Forward, Back, Down, [FK]
+And The Winner Is...   - Down, Forward, Down, Forward, [BK]
+Stage Fatality     - Down, Back, Forward, Block
+Babality       - Forward, Back, Forward, [BK]
+KABAL
+Uppercut       - Down + [BP]
+Hook Swipe         - Back + [FP]
+Strong Fist        - Back + [BP]
+Step Kick      - Forward + [FK]
+Big Knee       - Forward + [BK]
+Sweep          - Back + [BK]
+Last Breath        - [FP], [FP], [FP]
+Extermination      - [FP], [FP], Back + [BK], [FK]
+Mutilation     - Back + [FP], [BP], [FP]
+Vanquish       - [BP], [FP], [BP]
+Nomad's Fear       - Forward + [FK], [BP]
+Eviscerate     - Forward + [BK], [FP] + [BP]
+Up Next        - Back + [FP], [BP], [FP], Tag
+Your Turn      - [FP], [FP], Back + [BK], Tag
+Partners in Crime  - Back + [FP], [BP], Tag
+Rebirth        - [BP], [FP], Tag
+Gas Blast      - Back, Back, [FP]
+Nomad Dash      - Back, Forward, [BK]
+Buzzsaw        - Back, Back, [FK]
+Tornado Slam       - Down, Back, [BP]
+Vapor Blase        - Back, Back, [FP] + Block
+Nomad Charge       - Back, Forward, [BK] + Block
+Saw Blades     - Back, Back, [FK] + Block
+Cyclone Slam       - Down, Back, [BP] + Block
+Kabal's Deep       - Flip Stance + Block
+Hook Up        - Back, Forward, Back, Forward, [FP]
+I Takes Guts       - Down, Down, Back, Forward, Block
+Stage Fatality     - Down, Down, [BK]
+Babality       - Forward, Down, Back, [FK]
+KANO
+Strong Strike      - Forward + [FP]
+Uppercut       - Down + [BP]
+Gut Poke       - Back + [FP]
+Overhead Smash     - Back + [BP]
+Shin Kick      - Forward + [FK]
+Hop Roundhouse     - Forward + [BK]
+Sweep          - Back  [BK]
+One Two Three      - [FP], [FP], [BP]
+Fighting King      - Forward + [FP], [FP]
+No escape      - Forward + [FP], [BP]
+Dragon's Tail      - Back + [FP], [FP], [BP]
+Snake Bite     - Back + [FP], [BP]
+Getting Ahead      - [BP], [FP], [BP]
+Uplifting Force    - Back + [BP], [FK]
+Smashing Time      - Back + [BP], Forward + [FP]
+Double Dragon      - [FK], [FK]
+The Rage Kicks     - Forward + [FK], [FK]
+Mean Machine       - Forward + [FK], Back + [BP]
+Lead Head      - Back + [FP], [FP], [BP], Tag
+Ear to Ear     - [BP], [FP], [BP], Tag
+Bloodthirsty       - Forward + [FK], Back + [BP], Tag
+Troublesome        - [FP], [FP], Tag
+Deliquent      - Back + [FP], [FP], Tag
+Villianous     - [BP], [FP], Tag
+Mischievous        - Back + [BP], Tag
+Ball        - Forward, Down, Back, Forward
+Down Ball      - Forward, Down, Back, Forward
+Up Ball     - Down, Forward, [BP]
+Choke          - Down, Forward, [FP]
+Knife Throw        - Down, Back, [BP]
+Air Throw      - Throw
+Kano Ball      - Foward, Down, Back, Forward + Block
+Downward Ball      - Foward, Down, Back, Forward + Block
+Uprise Ball        - Down, Forward, [BP] + Block
+Kano Choke     - Down, Forward, [FP] + Block
+Knife Toss     - Down, Back, [BP] + Block
+Just The Tip       - Flip Stance + Block
+Heartbreak     - Back, Down, Back, Forward, [FP]
+Eat Your Heart Out - Down, Down, Forward, Back, [BK]
+Stage Fatality     - Up, Up, Back, [FK]
+Babality       - Forward, Forward, Down, Down, [FK]
+KITANA
+Fan Slice      - Back + [FP]
+Uprise         - Back + [BP]
+Shin Kick      - Back + [FK]
+Fan Stab       - Forward + [BP]
+Hop Kick       - Forward + [FK]
+Spin Kick      - Forward + [BK]
+Sweep          - Back + [BK]
+Royal Pain     - [FP], [FP], [BP]
+Dignified      - Back + [FP], [BP]
+Majestic       - [BP], [FP], [BP]
+Noble Lift     - Forward + [BP], [FP]
+Regal Assault      - [FK], [FK], [FK]
+Blue Blood     - Back + [FK]
+Power Intrusion    - Forward + [FK], [FP], [BP]
+Deadly Rush        - Forward + [BK], [FP]
+pure Kicks     - Forward + [BK], [FK]
+Deception      - Forward + [BK], Back + [BK]
+Truth Be Told      - Forward + [BP], [FK], Tag
+Effortless     - Forward + [FK], [FP], [BP], Tag
+Big Fan        - Back, Back + [BP], Tag
+Pretty Princess    - Back + [FP], Tag
+Mesmerizing        - [BP], [FP], Tag
+Magnificient       - [FK], [FK], Tag
+Disrespect     - Forward + [FK], [FP], Tag
+Fan Toss       - Down, Forward, [FP]
+Upraise     - Back, Back, [BP]
+Cutting Fan     - Down, Forward, [BP]
+Square Boost    - Down, Back, [BP]
+Pretty Kick     - Down, Back, [FK]
+Fake Out Kick   - Down, Back, [BK]
+Charged Fan        - Down, Forward, [FP] + Block
+Uplift         - Back, Back, [BP] + Block
+Fan Dice       - Down, Forward, [BP] + Block
+Square Wave        - Down, Back, [FP] + Block
+Pretty Legs        - Down, Back, [FK] + Block
+Big Fan        - Flip Stance + Block
+Fan Opener     - Down, Down, Back, Forward, [BP]
+Splitting Headache - Forward, Down, Forward, Back, [FK]
+Stage Fatality     - Forward, Down, Down, [FK]
+Babality       - Forward, Down, Forward, [BK]
+KRATOS
+Ares Slash     - Back + [FP]
+Zeus Slice     - Forward + [FP]
+Divine Lift        - Back + [BP]
+Spartan Bash       - Forward + [BP]
+Spartan Knee       - Forward + [BK]
+Uppercut       - Down + [BP]
+Sweep          - Back + [BK]
+Valor of Hercules  - [FP], [FP], [BP]
+Wrath of Zeus      - Forward + [BP], [FP]
+Anguish Of Zeus    - Forward + [BP], [BP]
+Pandora's Soul     - Forward + [BK], [BP]
+Hades Pain     - Back + [FP], Back + [BK]
+Hades Edge     - Back + [FP], [BP]
+Aphrodite's Will   - Forward + [FP], [BK]
+Athena's Fury      - [BP], [FP], [BP]
+Olympic Ascencion  - Back + Hold [BP], [FP]
+Olympic Burst      - Back + Hold [BP], [BP]
+Olympic Blast      - Back + Hold [BP], [FK]
+Olympic Toss       - Back + Hold [BP], [BK]
+Achilles Strike    - Forward + [BP], [BP], [FP]
+Athena's Rage      - [BP], [FP], [BP], Tag
+Olympic Chain      - Back + [BP], Tag
+Pandora's Box      - Forward + [BK], [BP], Tag
+Hercules Rush      - [FP], [FP], Tag
+Athena's Pain      - [BP], [FP], Tag
+Apollo's Bow       - Down, Forward, [BP]
+Head of Helios  - Down, Back, [BP]
+Hermes Dash     - Back, Foward, [BK]
+Golden Fleece   - Down, Back, [FP]
+Zeus' Rage     - Down, Forward, [FK]
+Apollo's Inferno   - Down, Forward, [BP] + Block
+Helios Flash       - Down, Back, [BP] + Block
+Hermes Rush        - Back, Foward, [BK] + Block
+Argo's Ram     - Down, Back, [FP] + Block
+Revenge of Olympus - Down, Forward, [FK] + Block
+Nemean Cestus  - Flip Stance + Block
+Blade of Olympus   - Down, Down, Back, Forward, [BP] (sw)
+Medusa's Gaze      - Down, Back, Down, Forward, [FP]
+Stage Fatality     - Down, Down, Down, [FK]
+Babality       - Down, Forward, Back, [BP]
+KUNG-LAO
+Chops          - Back + [FP]
+Hat Swipe      - Forward + [BP]
+Rolling Thunder    - Forward + [FK]
+Point Kick     - Back + [FK]
+Hop Kick       - Forward + [BK]
+Sweep          - Back + [BK]
+Windy Palm     - [FP], [FP], [BP], [FP]
+Healing Wind       - Back + [FP], Forward + [FP]
+Chained Fist       - [BP], [FP], [BP], [FP], [BP]
+Iron Broom     - [BP], [BK], [BP] + [FP]
+Leg Bar        - [BP], [BK], [FP] + [FK]
+Uprooting Stomp    - [BP], [BK], [FP] + [FK], [FK]
+Plum Flower        - [BP], [BK], [FP] + [FK], [FP]
+Lead The Way       - Back + [FK], [FK], [FK]
+Athena's Rage      - [BP], [FP], [BP], Tag
+Olympic Chain      - Back + [BP], Tag
+Pandora's Box      - Forward + [BK], [BP], Tag
+Hercules Rush      - [FP], [FP], Tag
+Athena's Pain      - [BP], [FP], Tag
+Hat Toss       - Back, Forward, [BP]
+Ground Hat     - Down, Back, [BP]
+Spin        - Down, Forward, [FP]
+Dive Kick      - Down + [BK]
+Teleport        - Down, Up
+Ultimate Hat       - Back, Forward, [BP] + Block
+Grinding Hat       - Down, Back, [BP] + Block
+Cyclone        - Down, Forward, [FP] + Block
+Multi Kick     - Down + [BK] + Block
+Fist of Shaolin    - Flip Stance + Block
+Hat Trick      - Back, Forward, Forward, Back, [BP]
+Razor's Edge       - Down, Down, Forward, Back, [FP]
+Stage Fatality     - Down, Forward, Down, [FK]
+Babality       - Down, Forward, Down, [BP]
+LIU-KANG
+Uppercut       - Down + [BP]
+Fierce Jab     - Forward + [BP]
+Gut Strike     - Back + [BP]
+Knee Bash      - Forward + [BP]
+Shaolin Heel       - Forward + [FK]
+Knee Kick      - Back + [FK]
+Shin Kick      - Forward + [BK]
+Sweep          - Back + [BK]
+Dragon Stance      - Down, Back, [BP]
+Final Act   - [FP]
+Fist of Death   - [BP]
+Shaolin Flip    - [FK]
+Moon Sweep  - [BK]
+Three Fists        - [FP], [FP], [FP]
+Death Fist     - [FP], [FP], [BP]
+Blasing Blasts     - Back + [FP], [BP], [FP]
+Immortal Dragon    - Back + [FP], Back + [BP], Back + [FP]
+Fierge Tiger       - [BP], [FP], [FK]
+Showdown       - Forward + [BP], [BK]
+Launching Fury     - Back + [BP], Back + [FK]
+Backdown       - Back + [FP], [BK]
+Lotus Flurry       - [FK], [FK], [BK]
+Final Act      - Back + [FK], [FP], [BP]
+Krusing Kombo      - Forward + [BK], [FK]
+Shaolin Spirit     - Back + [FP], Back + [BP], Back + [FP], Tag
+Dragon's Bite      - Back + [FK], [FP], [BP], Tag
+Next Time      - [FP], Tag
+Fist Swaps     - [FP], [FP], Tag
+Friendly       - Forward + [FP], [BP], Tag
+Step-In        - Forward + [FP], Back + [BP], Tag
+Dragon Dance       - [BP], Back + [FP], Tag
+Twin Lotus     - [FK], [FK], Tag
+Harm-onious        - Back + [FK], [FP], Tag
+High Fireball      - Back, Forward, [FP]
+Low Fireball    - Back, Forward, [FK]
+Flying Dragon Kick  - Back, Forward, [BP]
+Bicycle Kick    - Back, Back, Forward, [BK]
+Parry       - Down, Back, [FP]
+High Dragon Fire   - Back, Forward, [FP] + Block
+Low Dragon Fire    - Back, Forward, [FK] + Block
+Flame Dragon Kick  - Back, Forward, [BP] + Block
+Bicycle Steps      - Back, Back, Forward, [BK] + Block
+Burning Parry      - Down, Back, [FP] + Block
+Chin-Up        - Flip Stance + Block
+Fist of Flame      - Forward, Back, Down, Down, [FK] (sw)
+The Beast Within   - Down, Down, Forward, Down, [BK]
+Stage Fatality     - Down, Forward, Back, [FK]
+Babality       - Down, Down, Down, [BK]
+MILEENA
+Uppercut           - Down + [BP]
+Side Chop          - Back + Forward Punch
+Leaping Sai        - Back + [BP]
+Sai Impale         - Forward + [BP]
+Lunge Kick         - Forward + [FK]
+Sneaky Kick        - Back + [FK]
+Splits             - Up + [BK]
+Sweep              - Back + [BK]
+Smacked Around     - [FP], [FP], [BP]
+Boot Down          - Back + [BP], [BK]
+Bones              - [BP], [FK], [BK]
+Pretty Slasher     - Forward + [FK], [FP] + [BP]
+Killer Heels       - [FK], [BK]
+Getaway Sticks     - Back + [FK], Back + [BK]
+Friendly Kiss      - [BK], [BP]
+Malice             - Up + [BK], Tag
+Malevolence        - [FP], [FP], Tag
+Fiendish       - [BP], [FK], Tag
+Sai Blast          - Back, Forward, [FP]
+Teleport Drop       - Forward, Forward, [FK]
+Leaping Neckbite   - Back, Forward, [BP]
+Ball Roll           - Back, Down, [BK]
+Sai Bursts         - Back, Forward, [FP] + Block
+Tricky Teleport    - Forward, Forward, [FK] + Block
+Leaping Lunch      - Back, Forward, [BP] + Block
+Smashing Roll      - Back, Down, [BK] + Block
+Femme Fatale - Flip Stance + Block
+Be Mine            - Back, Forward, Back, Forward, [BP]
+Rip Off        - Back, Forward, Back, Down, [FK] Jump
+Stage fatality     - Down, Down, Down, [FP]
+Babality       - Down, Down, Forward, Back, [BP]
+NIGHTWOLF
+Knife Stab     - Back + [FP]
+Uppercut       - Down + [BP]
+Big Chop       - Back + [BP]
+Neck Stab      - Forward + [BP]
+Toe Stomp      - Forward + [FK]
+Sweep          - Back + [BK]
+Blade and Edge     - [FP], [FP], [BP]
+Axe Blast      - [FP], [BP], [BP], [FP]
+Dagger Stab        - Back + [FP], [FP], [FP]
+Deadly Dance       - [FP], [FP], [BK]
+New Earth      - [BP], [FK], [BK]
+Tomahawk Smash     - Back + [BP], [BP], [FP]
+Full Moon      - Forward + [FK], [FP], [BP]
+Spirit Tracks      - Forward + [FK], Back + [BK]
+Waning Moon        - Forward + [FK], [FP], [BP], Tag
+Rising Hawk        - Down, Forward, [FP], Tag
+Diving Eagle       - Down, Forward, [FP] + Block, Tag
+Razor's Edge       - [FP], [FP], Tag
+Falcon Swap        - [BP], [FP], [FP], Tag
+Deadly Talon       - [BP], [FK], Tag
+Howling Wolf       - Back + [BP], [BP], Tag
+Bull and Bear      - Forward + [FK], [FP], Tag
+Shoulder        - Forward, Forward, [BK]
+Lightning      - Down, Back, [FK]
+Arrow Show     - Down, Back, [FP]
+Reflect     - Down, Back, [BP]
+Axe Swing       - Down, Forward, [FP]
+Choke          - Down, Forward, [BP]
+Power Charge       - Forward, Forward, [BK] + Block
+Thunder Storm      - Down, Back, [FK] + Block
+Multi-Arrow        - Down, Back, [FP] + Block
+Absorb         - Down, Back, [BP] + Block
+Tomahawk Bash      - Down, Forward, [FP] + Block
+Strangle       - Down, Forward, [BP] + Block
+Ancestors Call  - Flip Stance + Block
+Little Off The Top     - Down, Forward, Down, Back, [BK]
+Ascension      - Down, Down, Forward, Back, [FP]
+Stage Fatality     - Down, Down, Down, Block
+Babality       - Forward, Back, Forward, Back, [FP]
+NOOB SAIBOT
+Saibot Strike      - Back + [FP]
+Uppercut       - Down + [BP]
+Hook Punch     - Back + [BP]
+Point Kick     - Forward + [FK]
+Snap Kick      - Forward + [BK]
+Sweep          - Back + [BK]
+Saibot Blast       - [BP], [FP]
+Sneaky Saibot      - Back + [FP], [BP], Forward + [BK]
+Evil Twin      - Back + [FP], [BP], [FP], Forward + [BK]
+Saibot Strike      - Back + [FP], [BP], [FP], [BK]
+Assassinate        - [BP], [FP], [BP]
+No Compassion      - Back + [BP], [FP], [BK]
+Reincarnated       - Forward + [FK], [FK], [FK]
+Possessed      - Forward + [BK], [FK]
+Mysterious     - Back + [FP], [BP], [FP], Tag
+Entangles      - Back + [FP], [BP], Tag
+Warped Rush        - [BP], [FP], Tag
+Tragic         - Back + [FP], [BP], Tag
+The Shadow     - Forward + [FK], [FK], Tag
+Ghostball      - Down, Forward, [FP]
+Blackhole(above)   - Down, Back, [BP]
+Blackhole(behind)  - Down, Forward, [BP]
+Blackhole(front)   - Down, Forward, Back, [BP]
+Teleport slam   - Down, Up
+Shadow Charge   - Down, Forward, [FK]
+Shadow Upknee   - Down, Back, [FK]
+Shadow Slide    - Back, Forward, [BK]
+Spiritball     - Down, Forward, [FP] + Block
+Darkness(above)    - Down, Back, [BP] + Block
+Darkness(behind)   - Down, Forward, [BP] + Block
+Darkness(front)    - Down, Forward, Back, [BP] + Block
+Teleport Smash     - Down, Up + Block
+Saibot Charge      - Down, Forward, [FK] + Block
+Saibot Upknee      - Down, Back, [FK] + Block
+Saibot Slide       - Back, Forward, [BK] + Block
+Together Again     - Flip Stance + Block
+Make a Wish        - Back, Forward, Back, Down + [BK]
+As One         - Down, Down, Back, Down, Block
+Stage Fatality     - Forward, Down, Forward, Block
+Babality       - Forward, Up, Forward, [FP]
+QUAN CHI
+Back Hand      - Back + [FP]
+Overhead Swipe     - Forward + [FP]
+Uppercut       - Down + [BP]
+Side Chop      - Back + [BP]
+Low Hop Kick       - Up + [FK]
+Shin Kick      - Back + [FK]
+Hop Kick       - Forward + [BK]
+Sweep          - Back + [BK]
+Afterlife      - [FP], [FP], [BP]
+Under Torment      - [FP], [FP], [FK]
+Conjurer's Crush   - Back + [FP], [FP]
+Corruption     - Forward + [FP], [BP], [BP], [FP]
+Spellbinder        - [BP], [FP], [BP]
+Root Of Evil       - [BP], [FP], [BK]
+Enchantment        - [BP], [FP], Up + [FK]
+Wounded Wrath      - Back + [BP], [FP]
+Incantation        - Back + [BP], [BK]
+Deterioration      - Back + [FK], [FK]
+Annihilation       - Back + [FK], [BP] + [FP]
+Sinister       - Back + [BP], [FP], Tag
+Die-Abolical       - Back + [FK], [FP] + [BP], Tag
+Alternative Means  - [FP], [FP], Tag
+Kruel Intentions   - Forward + [FP], [BP], Tag
+Bad Omen       - [BP], [FP], Tag
+Skeletal Boot      - Down, Back, [BK]
+Close       - Down, Back, [FP]
+Medium      - Down, Forward, [FP]
+Far     - Down, Back, Forward, [FP]
+Skull Ball     - Down, Back, [BP]
+Sky Drop        - Down, Back, [FK]
+Trance         - Back, Forward, [FK]
+Skeletal Buff      - Down, Back, [BK] + Block
+Close       - Down, Back, [FP] + Block
+Medium      - Down, Forward, [FP] + Block
+Far     - Down, Back, Forward, [FP] + Block
+Skull Chomp        - Down, Back, [BP] + Block
+Sky Stomp      - Down, Back, [FK] + Block
+Mesmerize      - Back, Forward, [FK] + Block
+Amulet Assault     - Flip Stance + Block
+Beat Down      - Forward, Forward, Down, Dow, [FP]
+On Your Knees      - Down, Forward, Down, Forward, [BK]
+Stage Fatality     - Back, Forward, Down, [BP]
+Babality       - Forward, Down, Back, [BP]
+RAIDEN
+Static Touch       - Back + [BP]
+Gut Strike     - Forward + [BP]
+Side Kick      - Back + [FK]
+Spinning Kick      - Forward + [FK]
+Heel Smash     - Forward + [BK]
+Uppercut       - Down + [BP]
+Sweep          - Back + [BK]
+Heavenly Hand      - [FP], [BP], [FP], [BP]
+Sudden Energy      - [BP], [BP], Forward + [FP]
+White Lightning    - [BP], [BP], Back + [BK]
+Violent Thunder    - Back + [BP], Forward + [FP], [BP] + [FP]
+Quick Burn     - Forward + [BP], [BK]
+Flash Storm        - Forward + [BP], [FK], [BP] + [FP]
+Spark Kicks        - [FK], [FK], [BK]
+Thunder God        - Back + [FK], [FP], [BP]
+Distant Thunder    - [FK], [FK], [BK], Tag
+Elder Fury     - Back + [FK], [FP], [BP], Tag
+God Fist       - Forward + [BP], [BK], Tag
+Godlike        - [BP], [BP], Tag
+Supernatural       - Back + [BP], Forward + [FP], Tag
+Divine Power       - Forward + [BP], [FK], Tag
+Lightning      - Down, Back, [FP]
+Electrocute        - Down, Forward, [BP]
+Electric Fly    - Back, Forward, [FK]
+Teleport        - Down, Up
+Vicinity Blast  - Down, Back, [BP]
+Bolt           - Down, Back, [FP] + Block
+Shocker        - Down, Forward, [BP] + Block
+Thunder Fly        - Back, Forward, [FK] + Block
+Sparkport      - Down, Up + Block
+Vicinity Burst     - Down, Back, [BP] + Block
+Shock Therapy      - Flip Stance + Block
+Just a Scratch     - Down, Forward, Down, Forward, [FP]
+Transplant     - Back, Forward, Forward, Down, [BK]
+Stage Fatality     - Down, Down, Down, [BP]
+Babality       - Down, Back, Down, [BK]
+REPTILE
+Uppercut       - Down + [BP]
+Reptile Smash      - Forward + [BP]
+Low Swipe      - Back + [FP]
+Hop Kick       - Forward + [FK]
+Sweep          - Back + [BK]
+Cold Blooded       - [FP], [BP], [BK]
+Carnivore Bash     - [FP], [BP], [BP], [FP]
+Deadly Venom       - [FP], [BP], Back + [FP]
+Just Hatched       - [BP], Forward + [FK]
+Hybrid Blast       - [BP], [BK] + [FK]
+Bybrid Crush       - [BP], Forward + [FK], [BP] + [FP]
+Evolution      - Forward + [BP], Back + [FP]
+Amphibian Charge   - [FK], [BP], [FP]
+Slithered      - [FK], [BP], Back + [BK]
+Swamp Strikes      - Forward + [FK], [BP] + [FP]
+Carnivorous        - [FP], [BP], [BP], [FP], Tag
+Nocturnal      - Forward + [BP], Back + [FP], Tag
+Aquatic        - [FK], [BP], [FP], Tag
+Shredding Skin     - Back, Forward, [BP] + Block, Tag
+Toxic          - [FP], [BP], Tag
+Ravenous       - [FP], [BP], [BP], Tag
+Anguish        - [FK], [BP], Tag
+Slow Force Ball - Back, Back, [FP]
+Fast Force Ball - Back, Back, [FK]
+Slide       - Back, Forward, [BK]
+Acid Hand      - Down, Back, [BP]
+Invisibility    - Down, Up, [BK]
+Acid Spit      - Down, Forward, [FP]
+Elbow Dash      - Back, Forward, [BP]
+Slow Mega Ball     - Back, Back, [FP] + Block
+Fast Mega Ball     - Back, Back, [FK] + Block
+Slime Trail        - Back, Forward, [BK] + Block
+Reptilian Hand     - Down, Back, [BP] + Block
+Vanish         - Down, Up, [BK] + Block
+Acid Stream        - Down, Forward, [FP] + Block
+Reptilian Elbow    - Back, Forward, [BP] + Block
+Tricky Lizard      - Flip Stance + Block
+Acid Yak       - Forward, Forward, Down, Up, [FK]
+Weight Loss        - Down, Down, Forward, Back, [FP]
+Stage Fatality     - Forward, Down, Down, Block
+Babality       - Back, Forward, Back, Down, [FK]
+Klassic Fatality   - Back, Back, Forward, Down, Block
+SCORPION
+Uppercut           - Down + [BP]
+Down Slice         - Back + [BP] (hold)
+Blade Overhead     - Forward + [BP]
+Heel Kick          - Back + [FK]
+Shin Blast         - Forward + [FK]
+Sweep              - Back + [BK]
+Torment            - [FP], [FP], [FP]
+Damnation          - [FP], [FP], [BK]
+Brimstone          - [BP], [FP], [BP]
+Grave Digger       - [BP], [FP] + [BP]
+Doom Blade         - Forward + [BP], [FP], [BK]
+Dead End           - Forward Kick, Forward Kick, [BK]
+Grievance          - Forward + [BK], [FK]
+Underworld     - [BP], [FP] + [BP], Tag
+Soulless       - Back + [BP], Tag
+Eternal Vengeance  - [FP], [FP], Tag
+Punishment     - [BP], [FP], Tag
+Affliction     - Forward + [BP], [FP], Tag
+Revenge        - [FK], [FK], Tag
+Spear              - Back, Back, [FP]
+Demon Fire         - Down, Back, [BP]
+Teleport        - Down, Back, [FK]
+Takedown           - Down, Back, [BK]
+Air Throw          - Block
+Flame Spear        - Back, Back, [FP] + Block
+Hell Fire          - Down, Back, [BP] + Block
+Flameport          - Down, Back, [FK] + Block
+Takeout            - Down, Back, [BK] + Block
+Scorpion Sting     - Flip Stance + Block
+Split Decision     - Forward, Down, Forward, [BP]
+Nether-Gate        - Back, Forward, Back, [FK] (sweeping distance)
+Stage fatality     - Forward, Up, Up, [FP]
+Babality       - Down, Back, Forward, Down, [BP]
+Klassic Fatality   - Down, Up, Up, [BP]
+SEKTOR
+Uppercut       - Down + [BP]
+Afterburn      - Back + [FP]
+Gut Crusher        - Back + [BP]
+Toe Kick       - Back + [FK]
+Rising Knee        - Forward + [BK]
+Chargine Embow     - Forward + [BP]
+Sweep          - Back + [BK]
+Leg Lift       - Up + [FK]
+Toe Kick       - [BK]
+Sneaky Kicks       - [FK], [BK]
+System Overload    - [FP], [BP], Back + [FP]
+Hard Crash     - [FP], [BP], [BP]
+Malfunction        - Forward + [BP], Back + [FP]
+Fustion Force      - [FP], [BP], [BK]
+Access Denied      - [FP], [FK]
+Demolition     - [BP], [FP], [BK]
+Drive Power        - Back + [BP], [FP]
+User Error     - Forward + [BK], [FK]
+Fatal Error        - Forward + [BK], [BK]
+Intersect      - Down, Forward, [BK], Tag
+Partition      - Down, Forward, [BK] + Block
+System Lock        - [FP], [BP], Back + [FP], Tag
+Detached       - [FP], [BP], Tag
+Spare Parts        - [BP], [FP], Tag
+Crank Off      - Back + [BP], Tag
+System Backup      - Forward + [BK], Tag
+Flame Burner       - Back, Forward, [BP]
+Teleport Uppercut   - Down, Forward, [BK]
+Straight Missile   - Back, Forward, [FP]
+Above       - Down, Back, [FK]
+Behind      - Down, Back, Forward, [FK]
+In Front    - Down, Forward, Back, [FK]
+Flame Thrower      - Back, Forward, [BP] + Block
+Metal Uppercut     - Down, Forward, [BK] + Block
+Double Missile     - Back, Forward, [FP] + Block
+Homing Missile     - Down, Back, [FK] + Block
+Massive Missile    - Flip Stance +  Block
+Robo-Sek       - Forward, Down, Back, Forward, [FK]
+The Scarecrow      - Down, Down, Forward, Back, [FP]
+Stage Fatality     - Down, Forward, Down, Block
+Babality       - Back, Down, Down, Down, [BK]
+SHANG TSUNG
+Elbow Poke     - Back + [FP]
+Forearm Strike     - Back + [BP]
+Elbow Blast        - Forward + [BP]
+Shin Attack        - Forward + [FK]
+Quick Knee     - Forward + [BK]
+Uppercut       - Down + [BP]
+Sweep          - Back + [BK]
+Bad Omen       - [FP], [BP], [FP]
+Soul Stain     - [BP], [FP], [FP]
+Soul Torment       - [FP], [FK]
+Reserved Pain      - Back + [FP], [BP], [FP], [BK]
+Death Walker       - [BP], [BP], [FP]
+Restored Youth     - [BP], [BP], Back + [BK]
+Play Time      - Forward + [FK], [BK]
+Deadly Truth       - Forward + [BK], [FK], [BK]
+Side by Side       - Back + [FP], [BP], [FP], Tag
+Ruthless       - [BP], [BP], [FP], Tag
+Soul Stealer       - [FP], [BP], Tag
+Burning Evil       - Back + [FP], [BP], Tag
+B-Trade        - [BP], [BP], Tag
+Two of a Kind      - Forward + [BK], [FK], Tag
+Fire Skull     - Back, Back, [FP]
+Above       - Down, Up, [BP]
+Behind      - Down, Forward, [BP]
+In Front    - Down, Back, [BP]
+Close       - Down, Up, [BK]
+Medium      - Down, Back, [BK]
+Far     - Down, Forward, [BK]
+Soul Steal      - Forward, Down, Back, [FK]
+Triple Skulls      - Back, Back, [FP] + Block
+Above       - Down, Up, [BP] + Block
+Behind      - Down, Forward, [BP] + Block
+In Front    - Down, Back, [BP] + Block
+Close       - Down, Up, [BK] + Block
+Medium      - Down, Back, [BK] + Block
+Far     - Down, Forward, [BK] + Block
+Soul Capture       - Forward, Down, Back, [FK] + Block
+Your Soul is Mine - Flip Stance + Block
+Bang Bang!     - Back, Down, Forward, [FK]
+Identity Theft     - Down, Down, Back, Down, [BP]
+Stage Fatality     - Up, Up, Back, [FP]
+Babality       - Down, Back, Down, [FK]
+SHEEVA
+Big Swing      - Back + [FP]
+Step Palms     - Forward + [BP]
+Low Swipe      - Back + [BP]
+Knee Kick      - Forward + [FK]
+Swinging Leg       - Forward + [BK]
+Uppercut       - Down + [BP]
+Sweep          - Back + [BK]
+Shokan Fury        - [FP], [BP], Back + [FP]
+Blood Lust     - [FP], Back + [BP], Forward + [FP]
+Darkness       - Back + [FP], [BP], [BP] + [FP]
+Four-Way       - [BP], [FP], [BP], Forward + [FP]
+Sheeva Rush        - [BP], [FP], [BP], Back + [FP]
+Quad Toss      - Back + [BP], [BP] + [FP]
+Demolish       - Forward + [BP], Back + [FP]
+Turmoil        - [FK], [FK]
+Rehabilitated      - Forward + [FK], [BP]
+Perfect Match      - [FP], [BP], Back + [FP], Tag
+Better Than        - [BP], [FP], [BP], Forward + [FP], Tag
+Helping Hands      - [FP], [BP], Tag
+Protector      - [FP], Back + [BP], Tag
+Distrusful     - Back + [FP], [BP], Tag
+Destruction        - [BP], [FP], [BP], Tag
+Fireball       - Down, Forward, [BP]
+Jump Stomp      - Down, Up
+Ground Pound    - Down, Back, [BK]
+Grab N Punch    - Back, Forward, [FK]
+Anti-Air Grab   - Down, Forward, [FP]
+Low Grab        - Down, Back, [FK]
+Fire Blast     - Down, Forward, [BP] + Block
+Jump Crush     - Down, Up + Block
+Ground Smash       - Down, Back, [BK] + Block
+Untamed Fury       - Back, Forward, [FK] + Block
+Power Anti-Air     - Down, Forward, [FP] + Block
+Anti-Duck Throw    - Down, Back, [FK] + Block
+Slam Dance         - Flip Stance + Block
+Stripped Down      - Forward, Down, Down, Forward, [FP]
+Lend a Hand        - Forward, Back, Forward, Back, [BK]
+Stage Fatality     - Down, Down, Down, Down, [FP]
+Babality       - Down, Down, Down, Back, [BK]
+SINDEL
+Hand Sweep     - Back + [FP]
+Face Chop      - Forward + [FP]
+Rising Fist        - Back + [BP]
+Front Kick     - Forward + [FK]
+Hand Plant Heel    - Back + [FK]
+Split Kick     - Up + [BK]
+Arise          - Up + [FK]
+Uppercut       - Down + [BP]
+Sweep          - Back + [BK]
+Undead Bride       - [FP], [FP], [FP]
+Royal Pain     - [FP], [FP], Back + [BP], [BK]
+Reburth        - Back + [FP], [BP]
+Confronted     - Forward + [FP], [BP], [BK]
+Anguish        - [BP], [FP], [BP]
+Sadness        - [BP], [FP], Back + [FK]
+Queen's Anger      - [FK], [FP], [FP]
+Unforgettable      - Back + [FK], Forward + [BP]
+Child's Play       - [BK], [BK], Up + [FK]
+Royal Flush        - [FP], [FP], Back + [BP], Tag
+Regal Ruin     - Back + [FP], [BP], Tag
+Cataclysm      - Back + [BP], Tag
+Graceful Dead      - Back + [FK], Forward + [BP]
+Bow To Me      - [FP], [FP], Tag
+Worthless      - Forward + [FP], [BP], Tag
+Majestic Mash      - [BP], [FP], Tag
+Queen's Sorrow     - [FK], [FP], Tag
+That Was Fun!      - [BK], [BK], Tag
+Fireball       - Down, Forward, [FP]
+Low Fireball       - Down, Forward, [FK]
+Yell           - Down, Back, [BP]
+Hover          - Down, Down, Up
+Hair Whip      - Down, Forward, [BP]
+Step Up     - Down, Forward, [BK]
+Power Fireball     - Down, Forward, [FP] + Block
+Low Fire       - Down, Forward, [FK] + Block
+Scream         - Down, Back, [BP] + Block
+Power Hover        - Down, Down, Up + Block
+Hair Toss      - Down, Forward, [BP] + Block
+Step Over      - Down, Forward, [BK] + Block
+Queen B        - Flip Stance + Block
+Migraine       - Back, Forward, Down, Forward, [FP]
+Mouthful       - Back, Forward, Up, [BP]
+Stage Fatality     - Down, Down, Down, [FP]
+Babality       - Down, Down, Down, Up
+SMOKE
+Jaw Chop       - Back + [FP]
+Hook Kick      - Back + [FK]
+Spin Kicks     - Forward + [BK]
+Uppercut       - Down + [BP]
+Sweep          - Back + [BK]
+Ablaze         - [FP], [FP], [BP]
+Smoldering     - [FP], [FK]
+Red-Hot        - Back + [FP], [BK]
+Rekindle       - [BP], [FP], [BK]
+Combustion     - [FK], Down + [FP], [BP]
+Ashes to Ashes     - [FK], Down + [FP], [BP], Tag
+Dust to Dust       - [FK], [BP], Tag
+Incinerate     - [FP], [FP], Tag
+Immolation     - [BP], [FP], Tag
+Ignite         - [FK], Down + [FP], Tag
+Shake       - Back, Forward, [FP]
+Smoke Cloud        - Down, Back, [BP]
+Air Throw      - Throw
+Teleport       - Down, Back, [BK]
+Invisibility    - Down, Up, [FK]
+Smoke Away      - Forward, Back, [FK]
+Smoke Towards       - Back, Forward, [FK]
+Vibration      - Back, Forward, [FP] + Block
+Smoke Bomb     - Down, Back, [BP] + Block
+Smokeport      - Down, Back, [BK] + Block
+Vanish         - Down, Up, [FK] + Block
+Phase Away     - Forward, Back, [FK] + Block
+Phase Towards      - Back, Forward, [FK] + Block
+Burn Out       - Flip Stance + Block
+Smoked Out     - Back, Forward, Back, Forward, [FP]
+Tremor         - Back, Back, Down, Forward, [BP]
+Stage Fatality     - Forward, Up, Up, [FP]
+Babality       - Down, Back, Down, Forward, Down
+SONYA
+Backfist       - Forward + [BP]
+Hookshot       - Back + [BP]
+Spin Kick      - Back + [FK]
+Sweep          - Forward + [BP]
+Uppercut       - Down + [BP]
+Military Stance    - Down, Back + [BP]
+Double Kick - [BK]
+Power Knee  - [FK]
+Shoulder    - [FP]
+Knockdown   - [BP]
+Tackle      - [FP] + [FK], [BP] + [FP]
+Dash Punches    - Forward + [FP]
+Lift Off    - Back + [BP]
+Hit the Deck    - Back + [BK]
+Advance Force      - [FP], [FP], [BP]
+Fierce Assault     - [FP], [FP], [FK]
+Drop Zone      - [BP], [FP], Back + [FK]
+Ground Control     - [BP], [FP], Back + [BK]
+Power Rush     - Forward + [BP], Back + [BP], [BK]
+Mess Hall      - Back + [BP], [FP], Forward + [BP]
+Play Time      - [FK], [FP], [BP]
+Beat Up        - [FK], [FP], [BK]
+Pull Out       - [BK], [BK]
+Switch Off     - Back + [BP], Tag
+Fatal Kiss     - Down, Back, [FP], Tag
+Windmill       - Down, Forward, [FK], Tag
+Lick My Boots      - [FP], [FP], Tag
+Special Forced     - [BP], [FP], Tag
+Tough Love     - Forward + [BP], Back + [BP], Tag
+Honorable Discharge    - [FK], [FP], Tag
+Enery Ring Blast   - Back, Forward, [BP]
+Leg Grab        - Back, Forward, [BK]
+Kiss           - Down, Back, [FP]
+Arc Kick        - Down, Back, [BK]
+Kartwheel       - Down, Forward, [FK]
+Air Drop       - Down + [BK]
+Air Throw      - Throw
+Rings of Justice   - Back, Forward, [BP] + Block
+Krazy Legs     - Back, Forward, [BK] + Block
+Deadly Kiss        - Down, Back, [FP] + Block
+Arc Wave       - Down, Back, [BK] + Block
+Kartwheel Bash     - Down, Forward, [FK] + Block
+Air Strikes        - Down + [BK] + Block
+SF Beat Up     - Flip Stance + Block
+Scissor Split      - Down, Down, Back, Forward, [FP]
+Kut-Throat     - Down, Back, Forward, Back, [BK]
+Stage Fatality     - Back, Forward, Down, [BP]
+Babality       - Down, Down, Forward, [FK]
+STRYKER
+Cross Hook     - Back + [FP]
+Baton Twirl        - Back + [BP]
+Uppercut       - Down + [BP]
+Sweep          - Back + [BK]
+Cop Out        - [FP], [BP]
+Dispatched     - [FP], [FP], [BK]
+Beat Down      - Back + [FP], [BP], [BP]
+Pain Patrol        - [BP], [FK], [BP]
+The Heat       - Back + [BP], [BP]
+Aggravated Assault - Back + [BP], Forward + [BP]
+Spread 'Em     - Back + [FP], Back + [BK]
+Serve and Protect  - Back + [FP], [BP], [BP], Tag
+Remain Silent      - Back + [BP], Forward + [BP], Tag
+Affirmative        - Back + [FK], [BP], Tag
+We Aim to Please   - [FP], [FP], Tag
+Officer Friendly   - Back + [FP], [BP], Tag
+Don't Move!        - [BP], [FK], Tag
+Assault and Battery    - Back + [FK], [BP], Tag
+Baton Sweep     - Down, Back, [BK]
+High Grenade Toss  - Down, Back, [BP]
+Low Grenade Toss   - Down, Back, [FP]
+Gun Shot       - Back, Forward, [FP]
+Roll Toss       - Back, Forward, [BK]
+Baton Bash     - Down, Back, [BK] + Block
+High    - Down, Back, [BP] + Block
+Low - Down, Back, [FP] + Block
+Bang Bang      - Back, Forward, [FP] + Block
+Roll Out       - Back, Forward, [BK] + Block
+Busted         - Flip Stance + Block
+Time Served        - Forward, Down, Forward, [FK]
+Have a Blast       - Down, Forward, Down Forward, Block
+Stage Fatality     - Forward, Up, Up, [BK]
+Babality       - Down, Forward, Down, Back, [BP]
+SUB-ZERO
+Swipe Uppercut     - Down + [BP]
+Force Claws        - Back + [BP] (hold)
+Big Leg            - Forward + [BP]
+Sweep              - Back + [BK]
+Frosty             - [FP], [FP], [FP]
+Cold Feet          - [FP], [FK], Forward + [BK]
+Artic Blast        - [FP], [FK], Back + [BK]
+Ice Pick           - Back + [FP], [BP], [FP]
+Ice Cold           - Back + [FP], [BP], [BK]
+Frost Bitten       - [BP], [FP], [BP]
+Ices Up            - [BP], [FP], [BK]
+TUndra Shoo        - [FK] + [BK], [FP] + [BP]
+Winter Blade       - [BP], [BP], [BP]
+Cold Steel         - [BP], [BP], [BK]
+Chill Out          - [FK], Forward + [BK]
+Absolute Zero      - [BP], [FP], Tag
+Freezer Burn       - [FP], [FK], Tag
+Arctic Assault     - Back + [FP], [BP], Tag
+Ability to Freeze  - [BP], [BP], Tag
+Iceball            - Down, Forward, [FK]
+Slide           - Back, Forward, [BK]
+Ice Clone          - Down, Back, [FP]
+Ice Puddle         - Down, Back, [FK]
+Ice Beam           - Down, Forward, [FK] + Block
+Power Slide        - Back, Forward, [BK] + Block
+Ice Statue         - Down, Back, [FP] + Block
+Ground Freeze      - Down, Back, [FK] + Block
+Deep Freeze        - Flip Stance + Block
+Have an Ice Day    - Back, Forward, Down, Forward, [BK]
+Spinal Smash       - Down, Back, Down, Forward, [BP]
+Stage fatality     - Forward, Down, Back, [BP]
+Babality       - Down, Back, Down, [BK]
+Klassic Fatality   - Forward, Down, Forward, [BP]
+CYBER SUB-ZERO
+Uppercut       - Down + [BP]
+Straight Slab      - Back + [FP]
+Backfist       - Forward + [FP]
+Chest Swipe        - Back + [BP]
+Head Chop      - Forward + [BP]
+Spinning Low Kick  - Back + [FK]
+Back Spin Kick     - Forward + [BK]
+Splits Attack      - Up + [BK]
+Sweep          - Back + [BK]
+Cyborg Assault     - [FP], [FP], [FP]
+Automation     - [FP], [FP], [BP]
+Drive Power        - [FP], [FP], Forward + [BK]
+Freezing Pain      - Forward + [FP], [BK]
+Cyro Bash      - Forward + [BP], [BP], [FP]
+Frost          - Back + [FP], [BP]
+Wildcard       - Back + [BP], [BP]
+Upload         - Back + [BP], [BK]
+Nano Smash     - [BP], [FP], [FP] + [BP]
+System Error       - [FK], [FK], [BP]
+Reboot         - [FK], [BK]
+Blizzard       - Back + [FK], [BP], [FP]
+Dual Core      - [FK], [BK], Tag
+Meltdown       - Back + [FK], [FP], Tah
+Dry Ice        - [FP], [FP], Tag
+Glacier        - [BP], [FP], Tag
+Ice Over       - Forward + [BP], [BP], Tag
+Ice Ball       - Down, Forward, [FP]
+Close       - Back, Back, [FK]
+Medium      - Forward, Forward, [FK]
+Far     - Back, Back, Forward, [FK]
+Slide       - Back, Forward, [BK]
+Teleport       - Down, Back, [FP]
+Ice Parry       - Down, Back, [BP]
+Divekick (close)   - Down + [FK]
+Divekick (Far)     - Down + [BK]
+Ice Beam       - Down, Forward, [FP] + Block
+Close       - Back, Back, [FK] + Block
+Medium      - Forward, Forward, [FK] + Block
+Far     - Back, Back, Forward, [FK] + Block
+Cyber-Slide        - Back, Forward, [BK] + Block
+Bangport       - Down, Back, [FP] + Block
+Frozen Parry       - Down, Back, [BP] + Block
+Powerkick (close)  - Down + [FK] + Block
+Powerkick (far)    - Down + [BK] + Block
+Cool Down - Flip Stance + Block
+Kold Fusion        - Down, Back, Down, Forward, [BP]
+Brain Freeze       - Down, Down, Back, Down, [FP]
+Stage Fatality     - Down, Down, Up, Block
+Babality       - Down, Back, Forward, Block
+SKARLET
+Uppercut       - Down + [BP]
+Dagger Slash       - Back + [FP]
+Rising Blade       - Back + [BP]
+Back Fist      - Forward + [BP]
+Upper Knee     - Forward + [FK]
+Roundhouse     - Forward + [BK]
+Lifting Leg        - Up + [FK]
+Sweep          - Back + [BK]
+Krimson Bash       - [FP], [FP], [BP]
+Red Pain       - [FP], [FP], [BK]
+Blood Clot     - Back + [FP], Forward + [FK]
+Coagulation        - Back + [FP], [FP], [FK]
+Bad Blood      - Back + [FP], [FP], Forward + [BK]
+Bloody Murder      - Back + [FP], [FP], Back + [BK]
+Bloodshed      - Back + [BP], [BK]
+Punishment     - [BP], [FP], [BP]
+Bloodshot      - [BP], [FK]
+Flesh & Blood      - Forward + [BP], [FP], [BP], [FP] + [BP]
+Blood Boil     - Forward + [FK], [FP], [BP]
+Slaughter      - Forward + [FK], [FK]
+Carnage        - Up + [FK], [BK]
+Thicker Than Water - Forward + [BK], [FK]
+Transfustion       - Back + [FP], [FP], Forward + [BK], Tag
+Blood & Tears      - Forward + [BP], [FP], [BP], [FP] + [BP], Tag
+Butchery       - Forward + [FK], [FP], [BP], Tag
+Warfare        - Up + [FK], Tag
+Bloodthirsy        - [FP], [FP], Tag
+Krimson Blades     - Back + [FP], [FP], Tag
+Judgement      - [BP], [FP], Tag
+Blood & Guts       - Forward + [BP], [FP], Tag
+Bloody Hell        - Forward + [FK], [FP], Tag
+Up Slash            - Down, Forward, [BP]
+Down Slash          - Down, Back, [BP]
+Blood Drop          - Down, Back, [BK]
+Red Dash               - Down, Forward, [FK]
+Slide           - [BK]
+Blood Ball             - Forward, Down, Back, [FP]
+Dagger Toss            - Down, Forward,[FP]
+Air Dagger (Close) - Down, Back, [FP]
+Air Dagger (Far)   - Down, Forward, [FP]
+Duel Up Slash      - Down, Forward, [BP] + Block
+Duel Down Slash    - Down, Back, [BP] + Block
+Blood Stomp        - Down, Back, [BK] + Block
+Krimson Dash       - Down, Forward, [FK] + Block
+Red Slide       - [BK]
+Dagger Toss        - Down, Forward,[FP] + Block
+Tri Air Dagger     - Down, Back, [FP] + Block
+Tri Air Dagger     - Down, Forward, [FP] + Block
+Blood Bank         - Flip Stance + Block
+Blood Bath         - Down, Back, Down, Down, Block
+Make It Rain       - Forward, Back, Down, Down, [BK]
+Stage Fatality     - Forward, Back, Forward, [FP]
+Babality           - Down, Back, Down, Forward, [BP]
+KENSHI
+Uppercut       - Down + [BP]
+Blade Stab     - Back + [BP]
+Blade Swipe        - Forward + [BP]
+Shin Kick      - Forward + [FK]
+Snap Kick      - Forward + [BK]
+Windmill           - Up + [BK]
+Sweep          - Back + [BK]
+Telekinetic Rush   - [FP], [FP], [FP]
+Blind Justice      - [FP], [FP], [BP]
+Off Balance        - [FP], [FP], [BK]
+Heightened Senses  - [BP], [FP], Back + [BP]
+Stolen Soul        - [BP], [FP], Forward + [BK]
+Absentminded       - Forward + [BP], [BP] Back + [FP]
+Shortsighted       - Forward + [BP], [BP] Back + [BP]
+Brainpower     - Forward + [FK], [BP]
+Concentration      - [BP], [FP], Back + [BP], Tag
+Grey Matter        - Forward + [BP], [BP], Back + [FP], Tag
+Blind Fury     - Forward + [FK], [BP], Tag
+Blind Swordsman    - [BP], [FP], Tag
+Farsighted     - Forward + [BP], [BP], Tag
+Spirit Charge      - Back, Forward, [BP]
+Rising Karma       - Down, Back, [FP]
+Close       - Down, Back, [BK]
+Medium      - Down, Forward, [BK]
+Far     - Down, Back, Forward, [BK]
+Tele-Flury     - Back, Forward, [FK]
+Blade Reflect      - Down, Back, [BP]
+Spirit Vengeance   - Back, Forward, [BP] + Block
+Karma Eruption     - Down, Back, [FP] + Block
+Close       - Down, Back, [BK] + Block
+Medium      - Down, Forward, [BK] + Block
+Far     - Down, Back, Forward, [BK] + Block
+Tele-Beatdown      - Back, Forward, [FK] + Block
+Blade Absorb       - Down, Back, [BP] + Block
+Soul Blade         - Flip Stance + Block
+Scatterbrained     - Up, Down, Up, Down, Block
+Split Ends     - Back, Forward, Down, Forward, [BP]
+Stage Fatality     - Down, Forward, Down, [FK]
+Babality       - Down, Back, Down, [FP]
+RAIN
+Uppercut       - Down + [BP]
+Axe Hand       - Back + [FP]
+Side Swipe     - Back + [BP]
+Stepping Sidekick  - Back + [FK]
+Sweep          - Back + [BK]
+It Pours       - [FP], [FP]
+Right as Rain      - [FP], [BP], Forward + [BK]
+Dehydrate      - [BP], [BK]
+Watery Grave       - Back + [BP], [FK]
+Waterfall      - Back + [BP], [FP] + [BP]
+Spill Over     - [FK], [FK], [BK]
+Moisturize Me      - [BK], [FK], Back + [BK]
+Thicker Then Water - [FP], [BP], Forward + [BK], Tag
+Rain Or Shine      - Back + [BP], [FP] + [BP], Tag
+Rain And Suffering - [FP], [FP], Tag
+No Rain, No Gain   - [FK], [FK], Tag
+Dead In The Water  - [BK], [FK], Tag
+Water Port     - Down, Up
+Super Kick     - Down, Back, [BK]
+Water Bubble       - Down, Forward, [FK]
+Geyser Kick        - Down, Back, [FK]
+Lightning      - Down, Back, [BP]
+Aqua Splash        - Back, Forward, [FP]
+H2O Boost      - Back, Down, Forward, [FP]
+Aqua-Port      - Down, Up + Block
+Power Kick     - Down, Back, [BK] + Block
+Hydro Bubble       - Down, Forward, [FK] + Block
+Thermal Spring     - Down, Back, [FK] + Block
+Thunder Storm      - Down, Back, [BP] + Block
+Aqua Blast     - Back, Forward, [FP] + Block
+H2O Buff       - Back, Down, Forward, [FP] + Block
+Rain Check         - Flip Stance + Block
+Bubble Burst       - Back, Forward, Down, Back, Block
+Does it Sting      - Up, Down, Back, Forward, [BP]
+Stage Fatality     - Forward, Down, Forward, [BK]
+Babality       - Back, Down, Forward, [FK]
+FREDDY KRUEGER
+Uppercut       - Down + [BP]
+Razor Slash        - Back + [FP]
+Double Swipe       - Back + [BP]
+Hell Slice     - Forward + [BP]
+Low Blow       - Back + [FK]
+Hop Kick       - Up + [FK]
+Big Knee       - Forward + [BK]
+Sweep          - Back + [BK]
+Nightmare Stance   - Down, Back, [BP]
+Open Wide   - [FP]
+Claw Slam   - [BP]
+Low Slash   - [FK]
+Cancel      - [BK]
+Split You in Two   - [FP], [FP], [FP]
+Skin The Cat       - Back + [FP], [BP], [BP]
+In Your Dreams     - Back + [FP], [BP], Up + [FP]
+Kung Fu This Bitch - [BP], [BP], [FP] + [BP]
+I Am Eternal       - Forward + [BP], [FP], Back + [FK]
+Never Sleep Again  - Forward + [BP], [FP], [BK],
+I Love Screamers   - Back + [BP], [BK]
+Come To Freddy     - [FK], [FK]
+Ungrateful Piggy   - Back + [FK], [FK]
+Coming For You     - Forward + [BK], [FK]
+Playing With Power - Forward + [BK], [BP], [FP]
+How Sweet Fresh Meat   - Back + [FP], [BP], Up + [FP], Tag
+Tag You're it      - Up + [FK], Tag
+Great Graphics     - Forward + [BK], [BP], [FP], Tag
+Party's Just Starting  - [FP], [FP], Tag
+Always Room For More   - Back + [FP], [BP], Tag
+Meet Your Maker    - Forward + [BP], [FP], Tag
+Now You Die        - Forward + [BK], [BP], Tag
+Close       - Down, Back, [FP]
+Medium      - Down, Forward, [FP]
+Far     - Down, Back, Forward, [FP]
+Sweet Dreams       - Down, Forward, [BK]
+Glove Toss     - Back, Forward, [BP]
+Freddy Fingers     - Down, Back, [BP]
+Dream Shift Away   - Down, Back, [FK]
+Dream Shift Towards    - Down, Forward, [FK]
+Hell Blast     - Down, Back, [FP] + Block
+Deep Sleep     - Down, Forward, [BK] + Block
+Power Glove Toss   - Back, Forward, [BP] + Block
+Freddy's Edge      - Down, Back, [BP] + Block
+Hell Shift Away    - Down, Back, [FK] + Block
+Hell Shift Towards - Down, Forward, [FK] + Block
+What a Rush        - Flip Stance + Block
+Stage Fatality     -  Forward, Down, Down, [FK]
+Babality       -  Back, Forward, Down, [FP]

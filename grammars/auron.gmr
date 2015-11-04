@@ -1,3 +1,3 @@
-Dragon Fang ::= down left up right l1 r1 circle cross
-Shooting Star ::= triangle circle square cross left right cross
-Banishing Blade ::= up l1 down r1 right left triangle
+Dragon Fang ::= down, left, up, right, l1, r1, circle, cross
+Shooting Star ::= triangle, circle, square, cross, left, right, cross
+Banishing Blade ::= up, l1, down, r1, right, left, triangle

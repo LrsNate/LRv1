@@ -61,7 +61,7 @@ object (self)
 
   method close_rule state rule =
   if List.exists (fun (s, r) -> s = state) _ends then
-    _ends <- List.map (fun (s, r) -> (s, r @ [rule])) _ends
+    _ends <- List.map (fun (s, r) -> if s = state then (s, r @ [rule]) else (s, r)) _ends
   else
     _ends <- _ends @ [state, [rule]]
 
